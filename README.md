@@ -1,11 +1,12 @@
 ## Hi there 👋
 
 Welcome to my profile!
+
 Fascinated by the world of computer science 👨‍💻
 
-## Find me here
+## Find me here 🔗
 - [LinkedIn Profile](https://www.linkedin.com/in/tobiasglinzer)
-- [X]https://x.com/TobiasGlinzer
+- [X](https://x.com/TobiasGlinzer)
 
 
 <!--
