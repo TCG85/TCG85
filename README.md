@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Welcome to my profile!
+Fascinated by the world of computer science 👨‍💻
+
+## Find me here
+- [LinkedIn Profile](https://www.linkedin.com/in/tobiasglinzer)
+- [X]https://x.com/TobiasGlinzer
+
+
 <!--
 **TCG85/TCG85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
